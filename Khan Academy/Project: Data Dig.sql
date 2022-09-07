@@ -91,3 +91,4 @@ SELECT COUNT(*),
     END AS "relative_size_to_earth"
 FROM solar_system_objects
 GROUP BY relative_size_to_earth
+  
